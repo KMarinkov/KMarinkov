@@ -3,14 +3,14 @@
 *Goal-oriented. Motivated and enthusiastic to discover and learn new technologies. Focused and dedicated
 with end goal to work as Software Engineer.*
 
-### *Education*
+### *🎓 Education*
 
-🎓 *Corporate security, Bachelor’s degree*
+- *Corporate security, Bachelor’s degree*
 
-🎓 *Protection of Information in Computer Systems and Networks,
+- *Protection of Information in Computer Systems and Networks,
    Master's degree*
 
-🎓 *Software engineering training camp, IT TALENTS*
+- *Software engineering training camp, IT TALENTS*
 
 ### *🛠 Tech Stack*
 
