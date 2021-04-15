@@ -1,4 +1,4 @@
-### *Hi there !👋*
+### *👋 Hi there !*
 
 *Goal-oriented. Motivated and enthusiastic to discover and learn new technologies. Focused and dedicated
 with end goal to work as Software Engineer.*
@@ -12,7 +12,7 @@ with end goal to work as Software Engineer.*
 
 🎓 *Software engineering training camp, IT TALENTS*
 
-### *Tech Stack 🛠*
+### *🛠 Tech Stack*
 
 ![JAVA](https://img.shields.io/badge/-Java-007396?logo=java&logoWidth=20)&nbsp;
 ![SPRING](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)&nbsp;
